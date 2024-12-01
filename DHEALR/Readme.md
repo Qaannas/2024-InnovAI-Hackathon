@@ -138,7 +138,7 @@ googletrans and deep-translator: Used for translating the extracted text to diff
 ## PITCH 
 
 **PRESENTATION**
-[PRESENTATION]([./2024-InnovAI-Hackathon/DHEALR/PITCH/Pitch.pdf](https://drive.google.com/file/d/1LGUlmX-YZrmItvKH3-42xZnDxnMzUhp6/view?usp=sharing))
+[PRESENTATION](https://drive.google.com/file/d/1LGUlmX-YZrmItvKH3-42xZnDxnMzUhp6/view?usp=sharing)
 
 
 **PITCH VIDEO**
