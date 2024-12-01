@@ -10,11 +10,11 @@ The lack of accessibility to reliable health resources in Moroccan Arabic (Darij
 
 ### TEAM MENBERS
 
-Anas Ouhannou
-Belkhlifi Anas
-Imane El Maakoul
-Mayssae Jabbar
-Wajih Esghayri
+Anas Ouhannou,
+Belkhlifi Anas,
+Imane El Maakoul,
+Mayssae Jabbar,
+Wajih Esghayri,
 
 ### Impact and Proposed Solution
 
