@@ -130,10 +130,10 @@ googletrans and deep-translator: Used for translating the extracted text to diff
 ## DEMO
 
 **DEMO Se7ti AI**
-[Watch Demo Video](./2024-InnovAI-Hackathon/DHEALR/DEMO/demo-Se7ti.mp4)
+[Watch Demo Video](https://drive.google.com/file/d/1Rg5h8K12_dsOR2m1HFU702dJItnafCir/view?usp=sharing)
 
 **DEMO Predignose feater**
-[Watch Demo Video](./2024-InnovAI-Hackathon/DHEALR/DEMO/demo-predignose.mp4)
+[Watch Demo Video](https://drive.google.com/file/d/1Blmiiq0dIzbagf3TQVj_7qsq_NTVefYr/view?usp=sharing)
 
 ## PITCH 
 
@@ -142,7 +142,7 @@ googletrans and deep-translator: Used for translating the extracted text to diff
 
 
 **PITCH VIDEO**
-[PITCH VIDEO](./2024-InnovAI-Hackathon/DHEALR/PITCH/Pitch-Video.mp4)
+[PITCH VIDEO](https://drive.google.com/file/d/17wR80-6jE0LndP9L-qVOwZ_pwePDYtZN/view?usp=sharing)
 
 
 ## Important Note
